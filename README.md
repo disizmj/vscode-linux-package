@@ -1,5 +1,5 @@
 # vscode-linux-package
-vscode-server tar package for local install for RHEL/Centos Linux
+vscode-server tar & RPM packages for local install for RHEL/Centos Linux
 
 To Install in RHEL/CENTOS, use the RPM package from releases<br />
 rpm -ivh <package_name>
